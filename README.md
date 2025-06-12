@@ -30,7 +30,7 @@ This portfolio website is built using React, showcasing the best practices in we
 ## Screenshots
 ![Portfolio Screenshot](public/images/ss.png)
 
-🔗 [Demo Link](public/images/ss.png)
+🔗 [Demo Link](https://upendra657.github.io/portfolio-website/)
 
 ## Technologies Used
 - JavaScript
