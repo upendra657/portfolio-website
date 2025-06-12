@@ -9,7 +9,6 @@ Welcome to my portfolio website repository! This project showcases my work, skil
 - Screenshots
 - Technologies Used
 - Contributing
-- License
 
 ## Introduction
 This portfolio website is built using React, showcasing the best practices in web development with a focus on performance and accessibility.
@@ -31,7 +30,7 @@ This portfolio website is built using React, showcasing the best practices in we
 ## Screenshots
 ![Portfolio Screenshot](https://github.com/upendra657/portfolio-website/public/images/ss.png)
 
-🔗 [Demo Link](https://upendra657.github.io/portfolio-website/)
+🔗 [Demo Link](public/images/ss.png)
 
 ## Technologies Used
 - JavaScript
@@ -46,6 +45,3 @@ Contributions are what make the open-source community such an amazing place to l
 3. Make your changes and commit them: `git commit -m "Add feature"`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Create a pull request.
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it for your own portfolio.
