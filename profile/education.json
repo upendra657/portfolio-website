@@ -1,16 +1,17 @@
 {
   "education": [
-    {
-      "dateText": "Apr 2017 to May 2021",
-      "cardtitle": "High School Education",
-      "cardsubtitle": "Indian Language School, Lagos, Nigeria",
-      "Imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrvejjwhDNSLIFsdbI0T1GYeYbxm6q7HgedQ&s"
-    },
+   
     {
       "dateText": "Aug 2021 to July 2025",
       "cardtitle": "Bachelors in Computer Science and Engineering",
       "cardsubtitle": "Manipal Institute of Technology",
       "Imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZemwR2sAk2w7lxal69DwVfDH9N26kW8eCg&s"
+    }, 
+    {
+      "dateText": "Apr 2017 to May 2021",
+      "cardtitle": "High School Education",
+      "cardsubtitle": "Indian Language School, Lagos, Nigeria",
+      "Imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrvejjwhDNSLIFsdbI0T1GYeYbxm6q7HgedQ&s"
     }
     
   ]
