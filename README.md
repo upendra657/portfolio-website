@@ -28,7 +28,7 @@ This portfolio website is built using React, showcasing the best practices in we
 - **Interactive UI**: Engage visitors with interactive elements and animations.
 
 ## Screenshots
-![Portfolio Screenshot](https://github.com/upendra657/portfolio-website/public/images/ss.png)
+![Portfolio Screenshot](public/images/ss.png)
 
 🔗 [Demo Link](public/images/ss.png)
 
