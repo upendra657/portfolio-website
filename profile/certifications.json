@@ -1,0 +1,31 @@
+{
+    "certifications": [
+        {
+            "title": "Machine Learning with Big Data",
+            "image": "https://live.staticflickr.com/65535/54583282376_9b52f440a9_m.jpg",
+            "bodyText": "Coursera - 2024", 
+        
+            "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/7P8C93D38UU3"
+        },
+        {
+            "title": "Foundations of Software Testing & Validation",
+            "image": "https://live.staticflickr.com/65535/54583460794_7fc9e68ac0_w.jpg",
+            "bodyText": "Coursera - 2024",
+        
+            "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/80VGNA788HNY"
+        },
+        {
+            "title": "Big Data Integration & Processing",
+            "image": "https://live.staticflickr.com/65535/54583282361_4123422e4a.jpg",
+            "bodyText": "Coursera - 2024",
+            "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/4T4YU99FG8TU"
+        },
+        {
+            "title": "Ethics in Engineering",
+            "image": "https://live.staticflickr.com/65535/54583594960_383984f465.jpg",
+            "bodyText": "Coursera - 2024",
+            "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/K6SXNZZ7N39F"
+        }
+        
+    ]
+}

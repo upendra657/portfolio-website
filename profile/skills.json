@@ -1,0 +1,89 @@
+
+  {
+    "skills": [
+      {
+        "title": "Programming Languages",
+        "tags": [
+          "C/C++",
+          "Python",
+          "JavaScript"
+        ]
+      },
+      {
+        "title": "Web Technologies",
+        "tags": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "title": "Server Side / Back End",
+        "tags": [
+          "Fast API",
+          "Flask",
+          "REST API",
+          "Node.js (MERN)"
+        ]
+      },
+      {
+        "title": "JavaScript Frameworks",
+        "tags": [
+
+          "React",
+          "Node.js",
+          "Bootstrap",
+          "Express.js",
+          "jQuery",
+          "AngularJS",
+          "Material UI"
+        ]
+      },
+      {
+        "title": "Software/Tools",
+        "tags": [
+          "GIT",
+          "MS Office Suite",
+          "VS code",
+          "Eclipse",
+          "IntelliJ",
+          "Jupyter Notebook"
+        ]
+      },
+      {
+        "title": "Databases",
+        "tags": [
+          "Mongo DB",
+          "MySQL",
+          "SQLite",
+          "SQL Server",
+          "Oracle",
+          "NoSQL"
+        ]
+      },
+      {
+        "title": "AWS Services",
+        "tags": [
+          "EC2",
+          "Lambda"
+        ]
+      },
+      {
+        "title": "Soft Skills",
+        "tags": [
+          "Problem Solving",
+          "Attention to Detail",
+          "Communication",
+          "Collaboration Readiness",
+          "Management",
+          "Adaptability",
+          "Time Management",
+          "Strategic Thinking",
+          "Decision Making",
+          "Self-Driven Learning"
+        ]
+      }
+    ]
+    }
+
