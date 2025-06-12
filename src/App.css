@@ -522,3 +522,35 @@ body{
   align-items: center;
   height: auto;
 }
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+
+    .contact-container {
+        flex-direction: column;
+    }
+
+    .contact-form, .contactText {
+        width: 100%;
+    }
+
+    .contact-links {
+        justify-content: center;
+    }
+
+    .contact-links a {
+        margin: 0 10px;
+    }
+}
