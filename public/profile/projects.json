@@ -1,0 +1,29 @@
+{
+    "projects": [
+      {
+        "image": "https://live.staticflickr.com/65535/54583624743_7187ecf7e8_z.jpg",
+        "title": "HR Management System",
+        "bodyText": "Built a simple HR management system that automates employee workflow by creating, editing, deleting tasks.\n It also allows the HR to manage employee data such as attendance and leaves.\n Optimized database queries and modularized Flask routes to improve application scalability and maintainability.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/upendra657/HR-Management-System"
+          }
+        ],
+        "tags": ["HTML", "CSS", "JavaScript", "Flask", "Python", "Bootstrap", "SQLite3"]
+      },
+      {
+        "image": "https://live.staticflickr.com/65535/54583631733_dc5b66fcf3_z.jpg",
+        "title": "Premier League Predictor",
+        "bodyText": "Engineered a machine-learning pipeline to predict the outcome of a Premier League match in football using over 1,500 historical fixtures with feature extraction, label encoding, and model tuning across Logistic Regression,Random Forest, and XGBoost classifiers.\n  Performed statistical data preprocessing and feature engineering to achieve over 70% prediction accuracy. \n Applied one-hot encoding and label transformation to prepare structured data for the models, enabling effective classification across multi-class outcome targets.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/upendra657/Premier-League-Predictor"
+          }
+        ],
+        "tags": ["Python", "Pandas", "Scikit-Learn", "XGBoost", "Matplotlib"]
+      }
+    ]
+  }
+  

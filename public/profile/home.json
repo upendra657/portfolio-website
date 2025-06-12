@@ -1,0 +1,18 @@
+{
+    "profilePic": {
+      "source": "images/HomePaageImg.png",
+      "width": 200,
+      "height": 200,
+      "border-radius": 50,
+      "object-fit": "cover",
+      "margin-bottom": 20
+    },
+    "name": "Upendra Sharma",
+    "roles": [
+      "a Developer",
+      "umm..."
+    ],
+    "paragraph": [
+      "A passionate and self-driven developer with hands-on experience in building full-stack web applications. I bring project-based expertise in React.js, Tailwind CSS, Flask, and SQLite, with a solid foundation in DSA, data science and version control using Git. Proficient in Python and JavaScript, I thrive on solving real-world problems through clean, scalable code. My experience spans web-scrapping,  portfolio development, machine learning-driven sports analytics, and automation projects, reflecting a strong commitment to continuous learning and impactful execution."
+    ]
+  }
